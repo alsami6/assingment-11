@@ -320,7 +320,11 @@ span {
 }
 
 .optional {
-  margin-bottom: 200px;
+  text-align: right;
+  width: 83%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding-right: 110px;
 }
 .portfolio-gift {
   text-align: center;
